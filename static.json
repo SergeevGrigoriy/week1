@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "ipoteka"
+      "X-Author": "ipoteka",
+      "Access-Control-Allow-Origin":"*"
     }
   }
 }
